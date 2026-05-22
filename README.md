@@ -112,6 +112,14 @@ Some important insights discovered:
 - Google Colab
 
 ---
+# Iamges
+![Image 1](https://github.com/aditya20051004/Spotify_EDA_System/blob/main/img1.jpeg)
+![Image 2](https://github.com/aditya20051004/Spotify_EDA_System/blob/main/img2.jpeg)
+![Image 3](https://github.com/aditya20051004/Spotify_EDA_System/blob/main/img3.jpeg)
+![Image 4](https://github.com/aditya20051004/Spotify_EDA_System/blob/main/img4.jpeg)
+![Image 5](https://github.com/aditya20051004/Spotify_EDA_System/blob/main/img5.jpeg)
+![Image 6](https://github.com/aditya20051004/Spotify_EDA_System/blob/main/img6.jpeg)
+
 
 # 📁 Project Structure
 
